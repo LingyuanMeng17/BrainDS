@@ -31,15 +31,4 @@ We provide a checkpoint to facilitate the reproduction of the results. The check
 ./BrainGS/checkpoints/ABIDE/best.pth.
 ```
 
-## Citation
 
-If you find this repository useful, please cite our paper:
-
-```
-@article{liu2023data,
-  title={Data-Centric Learning from Unlabeled Graphs with Diffusion Model},
-  author={Liu, Gang and Inae, Eric and Zhao, Tong and Xu, Jiaxin and Luo, Tengfei and Jiang, Meng},
-  journal={arXiv preprint arXiv:2303.10108},
-  year={2023}
-}
-```
